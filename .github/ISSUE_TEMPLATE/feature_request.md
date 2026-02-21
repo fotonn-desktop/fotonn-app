@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Submit a feature request to help us improve Fotonn Desktop
 title: ''
 labels: ''
 assignees: ''
