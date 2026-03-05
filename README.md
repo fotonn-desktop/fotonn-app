@@ -1,3 +1,5 @@
+![GitHub release](https://img.shields.io/github/v/release/fotonn-desktop/fotonn-app)
+
 # Fotonn Desktop – Issue Tracker
 
 Welcome to the official issue tracker for **Fotonn Desktop**.
