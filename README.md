@@ -1,18 +1,36 @@
-# Welcome to the Fotonn Issue Tracker
-Welcome to the official repository for Fotonn Desktop development. This is the central hub for tracking our progress, managing releases, and collaborating with the community.
+# Fotonn Desktop – Issue Tracker
 
-> Fotonn is a minimalistic local first note-taking app build for focus, privacy and ownership
+Welcome to the official issue tracker for **Fotonn Desktop**.
+
+Fotonn is a minimalistic, **local-first note-taking app built for focus, privacy, and ownership**.  
+This repository is the central hub for tracking bugs, discussing features, and collaborating with the community.
 
 ## 🤝 How to Contribute
-We value your feedback! To keep everything organized, we use Issue Templates. When you create a new issue, please select the appropriate category:
-- **Bug Reports:** Found a bug? Use the **Bug report** template to help us squash it.
-- **Feature Requests:** Have an idea to make Fotonn better? Let us know and use the **Feature template**!
+I welcome community feedback and contributions!
 
-## 📦 Releases & Roadmap
+When opening an issue, please use the correct template:
+
+- **Bug Reports** – If something is broken or not working as expected
+- **Feature Requests** – Suggestions to improve Fotonn
+
+Using the templates helps me review and resolve issues faster.
+
+## 📌 Before Opening an Issue
+
+Please take a moment to:
+
+- Search existing issues to avoid duplicates
+- Make sure you're running the **latest version**
+
+## 🗺 Roadmap
+Curious about what’s coming next?
+
+Check the [Roadmap](https://fotonn.com/roadmap) to see planned features and upcoming improvements.
+
+## 📦 Releases
 Stay up to date with the latest versions of Fotonn Desktop:
 - **GitHub Releases:** You can grab the latest or previous versions of the app in the releases section.
 - **Official Website:** You can also get the latest stable version at [fotonn.com](https://fotonn.com).
-- **Roadmap:** The official roadmap can be found at [Roadmap](https://fotonn.com/roadmap).
 
 ## 📍 Quick Links
 - [Documentation](https://fotonn.com/documentation)
@@ -21,4 +39,8 @@ Stay up to date with the latest versions of Fotonn Desktop:
 - [Privacy Policy](https://fotonn.com/privacy-policy)
 
 ---
-_Thank you for helping us make Fotonn Desktop better every day!_
+## ❤️ Thanks
+
+Thank you for helping improve Fotonn Desktop.
+
+Your feedback and contributions make the project better every day.
