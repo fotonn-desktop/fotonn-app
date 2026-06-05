@@ -1,40 +1,78 @@
 ![GitHub release](https://img.shields.io/github/v/release/fotonn-desktop/fotonn-app)
-# Fotonn Desktop – Issue Tracker
+# Fotonn is a local-first note taking app with Obsidian-like power, without the complexity.
 ![Fotonn preview](./fotonn-preview.png)
 
-Welcome to the official issue tracker for **Fotonn Desktop**.
+<br/>
 
-Fotonn is a minimalistic, **local-first note-taking app built for focus, privacy, and ownership**.  
-This repository is the central hub for tracking bugs, discussing features, and collaborating with the community.
+## ✨What is Fotonn?
+Fotonn is a fast, local-first knowledge app that helps you capture, connect, and find your notes instantly, without plugins, setup, or friction.
+It gives you the power of advanced note systems, but feels as simple as a notes app.
 
-## 🤝 How to Contribute
-I welcome community feedback and contributions!
+<br/>
 
-When opening an issue, please use the correct template:
+## Why Fotonn?
+- Find any note instantly
+- Connect ideas without friction
+- Stay organized without setup
+- Your notes stay yours
+- No plugin management, works out-of-the-box 
 
-- **Bug Reports** – If something is broken or not working as expected
-- **Feature Requests** – Suggestions to improve Fotonn
+<br/>
 
-Using the templates helps me review and resolve issues faster.
+## 🧠Built for
+- Students organizing study notes
+- Developers building personal knowledge bases
+- Writers connecting ideas
+- Anyone who wants a “second brain” without complexity
 
-## 📌 Before Opening an Issue
+<br/>
 
-Please take a moment to:
+## ⚡Core philosophy
+Fotonn is built around one idea:
+> Powerful systems should feel simple to use.
 
-- Search existing issues to avoid duplicates
-- Make sure you're running the **latest version**
+No plugin ecosystems. \
+No configuration overload. \
+No learning curve that takes weeks. 
+
+Just open and start thinking.
+
+<br/>
+
+## 📦 Downloads
+Latest releases: https://github.com/fotonn-desktop/fotonn-app/releases \
+Website: [fotonn.com](https://fotonn.com)
+
+<br/>
 
 ## 🗺 Roadmap
-Curious about what’s coming next?
-
+Curious about what’s coming next? \
 Check the [Roadmap](https://fotonn.com/roadmap) to see planned features and upcoming improvements.
+
+<br/>
+
+## 🤝 Community & feedback
+This repo is the central place for:
+
+- Bug reports
+- Feature requests
+- Discussions
+- Release updates
+
+Before opening an issue:
+- Search existing issues
+- Make sure you're on the **latest version**
+
+<br/>
 
 ## 📦 Releases
 Stay up to date with the latest versions of Fotonn Desktop:
 - **GitHub Releases:** You can grab the latest or previous versions of the app in the releases section.
 - **Official Website:** You can also get the latest stable version at [fotonn.com](https://fotonn.com).
 
-## 📍 Quick Links
+<br/>
+
+## 📍Links
 - [Documentation](https://fotonn.com/documentation)
 - [Official website](https://fotonn.com)
 - [Changelog](https://fotonn.com/changelog)
