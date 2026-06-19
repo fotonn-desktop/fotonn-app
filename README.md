@@ -86,3 +86,5 @@ Stay up to date with the latest versions of Fotonn Desktop:
 Thank you for helping improve Fotonn Desktop.
 
 Your feedback and contributions make the project better every day.
+
+_If you love the focus on simple, local-first tech, leave a ⭐ to bookmark this project and support an independent dev!_
