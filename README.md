@@ -1,5 +1,5 @@
 ![GitHub release](https://img.shields.io/github/v/release/fotonn-desktop/fotonn-app)
-# Fotonn is a local-first note taking app with Obsidian-like power, without the complexity.
+# A complete personal knowledge system. Ready from day one.
 ![Fotonn preview](./fotonn-web-banner-image.png)
 
 <br/>
