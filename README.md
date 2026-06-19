@@ -2,6 +2,8 @@
 # A complete personal knowledge system. Ready from day one.
 ![Fotonn preview](./fotonn-web-banner-image.png)
 
+## [Try it out for free](https://fotonn.com/download)
+
 <br/>
 
 ## ✨What is Fotonn?
