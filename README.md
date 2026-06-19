@@ -13,7 +13,7 @@ It gives you the power of advanced note systems, but feels as simple as a notes 
 <br/>
 
 ## Why Fotonn?
-- Find any note instantly
+- Find any note in seconds not minutes
 - Connect ideas without friction
 - Stay organized without setup
 - Your notes stay yours
