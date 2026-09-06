@@ -1,5 +1,5 @@
 ![GitHub release](https://img.shields.io/github/v/release/fotonn-desktop/fotonn-app)
-![Fotonn preview](./app-banner-image.jpeg)
+![Fotonn preview](./app-banner-image.jpg)
 # Fotonn, A complete personal knowledge system. Ready from day one.
 
 **Fotonn is a fast, local-first knowledge app for capturing, organizing, connecting, and finding your ideas, without plugins, complicated setup, or configuration overload.**
