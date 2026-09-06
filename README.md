@@ -1,6 +1,6 @@
 ![GitHub release](https://img.shields.io/github/v/release/fotonn-desktop/fotonn-app)
 # A complete personal knowledge system. Ready from day one.
-![Fotonn preview](./fotonn-desktop-cover.png)
+![Fotonn preview](./app-banner-image.png)
 
 ## [Try it out for free](https://fotonn.com/download)
 
