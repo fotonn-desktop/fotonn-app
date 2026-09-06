@@ -1,90 +1,134 @@
 ![GitHub release](https://img.shields.io/github/v/release/fotonn-desktop/fotonn-app)
-# A complete personal knowledge system. Ready from day one.
 ![Fotonn preview](./app-banner-image.png)
+# Fotonn — A complete personal knowledge system. Ready from day one.
 
-## [Try it out for free](https://fotonn.com/download)
+**Fotonn is a fast, local-first knowledge app for capturing, organizing, connecting, and finding your ideas — without plugins, complicated setup, or configuration overload.**
 
-<br/>
-
-## ✨What is Fotonn?
-Fotonn is a fast, local-first knowledge app that helps you capture, connect, and find your notes instantly, without plugins, setup, or friction.
-It gives you the power of advanced note systems, but feels as simple as a notes app.
-
-<br/>
-
-## Why Fotonn?
-- Find any note in seconds not minutes
-- Connect ideas without friction
-- Stay organized without setup
-- Your notes stay yours
-- No plugin management, works out-of-the-box 
-
-<br/>
-
-## 🧠Built for
-- Students organizing study notes
-- Developers building personal knowledge bases
-- Writers connecting ideas
-- Anyone who wants a “second brain” without complexity
-
-<br/>
-
-## ⚡Core philosophy
-Fotonn is built around one idea:
-> Powerful systems should feel simple to use.
-
-No plugin ecosystems. \
-No configuration overload. \
-No learning curve that takes weeks. 
-
-Just open and start thinking.
-
-<br/>
-
-## 📦 Downloads
-Latest releases: https://github.com/fotonn-desktop/fotonn-app/releases \
-Website: [fotonn.com](https://fotonn.com)
-
-<br/>
-
-## 🗺 Roadmap
-Curious about what’s coming next? \
-Check the [Roadmap](https://fotonn.com/roadmap) to see planned features and upcoming improvements.
-
-<br/>
-
-## 🤝 Community & feedback
-This repo is the central place for:
-
-- Bug reports
-- Feature requests
-- Discussions
-- Release updates
-
-Before opening an issue:
-- Search existing issues
-- Make sure you're on the **latest version**
-
-<br/>
-
-## 📦 Releases
-Stay up to date with the latest versions of Fotonn Desktop:
-- **GitHub Releases:** You can grab the latest or previous versions of the app in the releases section.
-- **Official Website:** You can also get the latest stable version at [fotonn.com](https://fotonn.com).
-
-<br/>
-
-## 📍Links
-- [Documentation](https://fotonn.com/documentation)
-- [Official website](https://fotonn.com)
-- [Changelog](https://fotonn.com/changelog)
-- [Privacy Policy](https://fotonn.com/privacy-policy)
+[**Try Fotonn for free →**](https://fotonn.com/download)
 
 ---
-## ❤️ Thanks
 
-Thank you for helping improve Fotonn Desktop.
+## ✨ What is Fotonn?
 
-Your feedback and contributions make the project better every day.
+Fotonn is a **local-first personal knowledge system** designed to make powerful knowledge management feel effortless.
 
-_If you love the focus on simple, local-first tech, leave a ⭐ to bookmark this project and support an independent dev!_
+Capture your thoughts, organize your notes, connect ideas, and find what you need in seconds — all from one focused desktop app.
+
+Instead of spending time configuring your note-taking system, **Fotonn comes ready to use from day one.**
+
+> **Powerful systems should feel simple to use.**
+
+---
+
+## Why Fotonn?
+
+- ⚡ **Find anything quickly** — Search through your knowledge in seconds.
+- 🔗 **Connect your ideas** — Build relationships between notes and concepts.
+- 📁 **Stay organized** — Use folders, labels, and other organizational tools without unnecessary complexity.
+- 🔒 **Keep your data yours** — Your knowledge stays local on your device.
+- 🧩 **No plugin management** — The features you need are built in.
+- 🚀 **Ready from day one** — Open Fotonn and start thinking. No setup required.
+
+---
+
+## 🧠 Built for
+
+Fotonn is designed for anyone who wants a personal knowledge system without turning note-taking into a project.
+
+- 🎓 **Students** organizing courses, research, and study notes
+- 💻 **Developers** building personal knowledge bases and documentation
+- ✍️ **Writers** collecting and connecting ideas
+- 🔬 **Researchers** managing information and references
+- 🧠 **Knowledge workers** building their own second brain
+- 🌱 **Anyone** who wants powerful knowledge management without the complexity
+
+---
+
+## ⚡ Core philosophy
+
+Fotonn is built around one simple idea:
+
+> **Powerful systems should feel simple to use.**
+
+No plugin ecosystems.\
+No configuration overload.\
+No weeks spent learning how your note-taking app works.
+
+**Just open Fotonn and start thinking.**
+
+---
+
+## 🔒 Local-first by design
+
+Your notes are stored locally on your computer, giving you direct ownership of your data.
+
+Fotonn is designed around a simple principle:
+
+> **Your knowledge should belong to you.**
+
+No account is required just to use your notes, and your knowledge doesn't need to live on someone else's server.
+
+---
+
+## 📦 Download
+
+### Latest version
+
+[**Download Fotonn →**](https://fotonn.com/download)
+
+### Previous releases
+
+Browse all available versions on [**GitHub Releases**](https://github.com/fotonn-desktop/fotonn-app/releases).
+
+---
+
+## 🗺 Roadmap
+
+Fotonn is actively being developed.
+
+Want to see what's coming next?
+
+[**View the roadmap →**](https://fotonn.com/roadmap)
+
+---
+
+## 🤝 Community & feedback
+
+This repository is the central place for:
+
+- 🐛 Bug reports
+- 💡 Feature requests
+- 💬 Discussions
+- 📢 Release updates
+
+Before opening an issue:
+
+1. Search existing issues to see if your problem or idea has already been reported.
+2. Make sure you're running the **latest version of Fotonn**.
+3. Provide as much relevant information as possible when reporting a problem.
+
+Your feedback helps shape the future of Fotonn.
+
+---
+
+## 🔗 Links
+
+|                      |                                                                          |
+| -------------------- | ------------------------------------------------------------------------ |
+| 🌐 **Website**       | [fotonn.com](https://fotonn.com)                                         |
+| 📥 **Download**      | [Download Fotonn](https://fotonn.com/download)                           |
+| 📚 **Documentation** | [Documentation](https://fotonn.com/docs)                                 |
+| 🗺 **Roadmap**       | [Roadmap](https://fotonn.com/roadmap)                                    |
+| 📋 **Changelog**     | [Changelog](https://fotonn.com/changelog)                                |
+| 🔒 **Privacy**       | [Privacy Policy](https://fotonn.com/privacy-policy)                      |
+| 📦 **Releases**      | [GitHub Releases](https://github.com/fotonn-desktop/fotonn-app/releases) |
+
+---
+
+## ❤️ Support Fotonn
+
+Fotonn is built independently with a focus on **simple, local-first software**.
+
+If you find Fotonn useful, consider giving the repository a ⭐. It helps others discover the project and supports its continued development.
+
+**Thanks for checking out Fotonn!**
