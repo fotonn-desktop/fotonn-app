@@ -2,7 +2,7 @@
 ![Fotonn preview](./app-banner-image.png)
 # Fotonn, A complete personal knowledge system. Ready from day one.
 
-**Fotonn is a fast, local-first knowledge app for capturing, organizing, connecting, and finding your ideas — without plugins, complicated setup, or configuration overload.**
+**Fotonn is a fast, local-first knowledge app for capturing, organizing, connecting, and finding your ideas, without plugins, complicated setup, or configuration overload.**
 
 [**Try Fotonn for free →**](https://fotonn.com/download)
 
@@ -12,7 +12,7 @@
 
 Fotonn is a **local-first personal knowledge system** designed to make powerful knowledge management feel effortless.
 
-Capture your thoughts, organize your notes, connect ideas, and find what you need in seconds — all from one focused desktop app.
+Capture your thoughts, organize your notes, connect ideas, and find what you need in seconds, all from one focused desktop app.
 
 Instead of spending time configuring your note-taking system, **Fotonn comes ready to use from day one.**
 
@@ -66,7 +66,7 @@ Fotonn is designed around a simple principle:
 
 > **Your knowledge should belong to you.**
 
-No account is required just to use your notes, and your knowledge doesn't need to live on someone else's server.
+Your knowledge doesn't need to live on someone else's server.
 
 ---
 
