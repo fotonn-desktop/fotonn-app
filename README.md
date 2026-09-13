@@ -22,12 +22,12 @@ Instead of spending time configuring your note-taking system, **Fotonn comes rea
 
 ## Why Fotonn?
 
-- ⚡ **Find anything quickly** — Search through your knowledge in seconds.
-- 🔗 **Connect your ideas** — Build relationships between notes and concepts.
-- 📁 **Stay organized** — Use folders, labels, and other organizational tools without unnecessary complexity.
-- 🔒 **Keep your data yours** — Your knowledge stays local on your device.
-- 🧩 **No plugin management** — The features you need are built in.
-- 🚀 **Ready from day one** — Open Fotonn and start thinking. No setup required.
+- ⚡ **Find anything quickly**, Search through your knowledge in seconds.
+- 🔗 **Connect your ideas**, Build relationships between notes and concepts.
+- 📁 **Stay organized**, Use folders, labels, to organize your notes.
+- 🔒 **Keep your data yours**, Your knowledge stays local on your device.
+- 🧩 **No plugin management**, The features you need are built in.
+- 🚀 **Ready from day one**, Open Fotonn and start thinking. No setup required.
 
 ---
 
@@ -61,10 +61,6 @@ No weeks spent learning how your note-taking app works.
 ## 🔒 Local-first by design
 
 Your notes are stored locally on your computer, giving you direct ownership of your data.
-
-Fotonn is designed around a simple principle:
-
-> **Your knowledge should belong to you.**
 
 Your knowledge doesn't need to live on someone else's server.
 
