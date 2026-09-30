@@ -9,7 +9,7 @@ Fotonn is a fast, local-first knowledge app for capturing, organizing, connectin
 
 ---
 
-## ✨ What is Fotonn?
+## What is Fotonn?
 
 Fotonn is a **local-first personal knowledge system** designed to make powerful knowledge management feel effortless.
 
@@ -32,7 +32,7 @@ Instead of spending time configuring your note-taking system, **Fotonn comes rea
 
 ---
 
-## 🧠 Built for
+## Built for
 
 Fotonn is designed for anyone who wants a personal knowledge system without turning note-taking into a project.
 
