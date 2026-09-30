@@ -3,7 +3,7 @@
 # Fotonn
 **Keeping things simple**
 
-**Fotonn is a fast, local-first knowledge app for capturing, organizing, connecting, and finding your ideas, without plugins, complicated setup, or configuration overload.**
+Fotonn is a fast, local-first knowledge app for capturing, organizing, connecting, and finding your ideas, without plugins, complicated setup, or configuration overload.
 
 [**Try Fotonn for free →**](https://fotonn.com/download)
 
